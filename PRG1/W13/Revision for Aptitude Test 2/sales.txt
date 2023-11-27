@@ -1,0 +1,6 @@
+Branch,Product,Units Sold
+Orchard,MacBook Air,205
+Orchard,MacBook Pro,89
+Orchard,iMac,57
+MBS,MacBook Air,28
+MBS,MacBook Pro,22
